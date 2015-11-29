@@ -1,0 +1,25 @@
+{
+  "name": "edp-scss-compiler",
+  "version": "1.0.2",
+  "description": "edp build for scss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "edp",
+    "scss"
+  ],
+  "author": {
+    "name": "mfylee"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "escodegen": "^1.7.1",
+    "estraverse": "^4.1.1"
+  },
+  "devDependencies": {
+    "edp-core": "^1.0.32",
+    "node-sass": "^3.4.2"
+  }
+}
